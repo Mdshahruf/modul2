@@ -1,1 +1,1 @@
-https://github.com/Mdshahruf/modul2.git
+https://github.com/Mdshahruf/modul2/
